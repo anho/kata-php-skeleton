@@ -1,0 +1,14 @@
+{
+    "name": "anho/kata-php-skeleton",
+    "description": "A skeleton for php code katas",
+    "license": "MIT",
+    "require-dev": {
+        "phpunit/phpunit": "^4.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "Kata\\Tests\\": "tests/",
+            "Kata\\": "src"
+        }
+    }
+}

@@ -1,0 +1,7 @@
+/vendor/
+/node_modules/
+composer.lock
+/src/**
+/tests/**
+!/src/Sample.php
+!/tests/SampleTest.php

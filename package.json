@@ -1,0 +1,9 @@
+{
+    "name": "kata-php-skeleton",
+    "dependencies": {},
+    "devDependencies": {
+        "grunt": "~0.4.0",
+        "grunt-contrib-watch": "~0.4.0",
+        "grunt-phpunit": "*"
+    }
+}
